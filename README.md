@@ -1,4 +1,4 @@
-# Hi there, I'm Miracle Okoh! 👋
+# Hi there, I'm Miracle Okoh!
 
 I'm an AI Workflow Automation Engineer passionate about building intelligent systems that help businesses automate repetitive work and improve productivity.
 
