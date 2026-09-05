@@ -32,7 +32,3 @@ Currently Learning
 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/miracle-okoh/
-
----
-
-> *"Small, consistent progress compounds into extraordinary results."*
