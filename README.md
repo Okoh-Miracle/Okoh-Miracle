@@ -24,3 +24,5 @@ Currently Learning
 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/miracle-okoh/
+- Portfolio: https://miracleokoh.com/
+- GitHub: https://github.com/Okoh-Miracle
