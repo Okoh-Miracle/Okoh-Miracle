@@ -21,14 +21,6 @@ Currently Learning
 - Software Engineering
 - AI Engineering
 
-2026 Goals
-
-- Build a strong software engineering foundation
-- Contribute consistently on GitHub
-- Create impactful AI automation projects
-- Earn globally recognized certifications
-- Secure international software engineering opportunities
-
 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/miracle-okoh/
